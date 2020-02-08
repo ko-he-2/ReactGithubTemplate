@@ -3,6 +3,7 @@
 ## 新しくReactアプリを作成する場合
 
 既にサンプルのhello-worldアプリが作成されているのでこれを削除し、以下のコマンドでcreate-react-appを実行する。
+ああああ
 
 ```
 docker-compose run --rm node sh -c "create-react-app my-app"
